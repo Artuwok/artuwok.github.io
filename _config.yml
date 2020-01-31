@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Artem Vlasenko"
-  avatar           : # path of avatar image, e.g. "/assets/images/me-bio.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/me-bio.jpg"
+  bio              : "java developer "
   location         : "Kyiv, Ukraine"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:artem.vlasenko@gmail.com
+       url: mailto:artem.vlasenko@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
