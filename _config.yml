@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Artem Vlasenko"
-  avatar           : "/assets/images/me-bio.jpg"
-  bio              : "java developer "
+  avatar           : /assets/images/me_bio.jpg
+  bio              : "java developer"
   location         : "Kyiv, Ukraine"
   email            :
   links:
