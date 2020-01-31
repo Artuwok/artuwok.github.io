@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/images/me_bio.jpg"
+og_image                 :  "/assets/images/bio-photo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -108,14 +108,15 @@ analytics:
 # Site Author
 author:
   name             : "Artem Vlasenko"
-  avatar           : /assets/images/me_bio.jpg
-  bio              : "java developer"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "No Magic."
   location         : "Kyiv, Ukraine"
-  email            :
+  email            : "artem.vlasenko@gmail.com"
+  uri              : "https://artuwok.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:artem.vlasenko@gmail.com
+       url: "mailto:artem.vlasenko@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
